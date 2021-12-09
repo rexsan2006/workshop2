@@ -1,0 +1,14 @@
+public ipv4 dns
+ec2-18-189-163-251.us-east-2.compute.amazonaws.com
+
+ECR push command for workshop2 ECR
+aws ecr get-login-password --region us-east-2 | docker login --username AWS --password-stdin 957557964468.dkr.ecr.us-east-2.amazonaws.com
+
+Workshop2 URI
+957557964468.dkr.ecr.us-east-2.amazonaws.com/workshop2
+
+DB nctutorials endpoint RDS
+nctutorials.chihzabkxlj8.us-east-2.rds.amazonaws.com
+
+GITHUB URL
+https://github.com/rexsan2006/workshop2.git
