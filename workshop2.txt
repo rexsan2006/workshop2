@@ -1,4 +1,4 @@
-public ipv4 dns
+EC2 public ipv4 dns
 ec2-18-189-163-251.us-east-2.compute.amazonaws.com
 
 ECR push command for workshop2 ECR
@@ -12,3 +12,11 @@ nctutorials.chihzabkxlj8.us-east-2.rds.amazonaws.com
 
 GITHUB URL
 https://github.com/rexsan2006/workshop2.git
+
+elastic ip
+18.189.163.251
+
+
+
+open ssh session
+ssh -i nucamp-django-docker.pem ubuntu@18.189.163.251
